@@ -7,12 +7,15 @@ name = "edgar-sec"
 version = "2.0.1"
 description = "A feature-rich python package for interacting with the US Securities and Exchange Commission API: EDGAR"
 authors = [
-    "Nikhil Sunder <nsunder724@gmail.com>"
+    "Nikhil Sunder <nsunder724@gmail.com>",
+    "John Bernardin <jbbernardin725@gmail.com>",
+    "Jake Schultz",
+    "Rayhan Rahman",
 ]
 license = "AGPL-3.0-or-later"
 readme = "README.md"
-repository = "https://github.com/nikhilxsunder/edgar-sec"
-documentation = "https://nikhilxsunder.github.io/edgar-sec/"
+repository = "https://github.com/edgar-sec-dev-team/edgar-sec"
+documentation = "https://edgar-sec-dev-team.github.io/edgar-sec/"
 packages = [{include = "edgar_sec", from = "src"}]
 include = ["src/edgar_sec/py.typed"]
 classifiers = [
