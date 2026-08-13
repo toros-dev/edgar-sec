@@ -34,7 +34,7 @@ src/edgar_sec/objects.py       209      0   100%
 ------------------------------------------------
 TOTAL                          581      0   100%
 Coverage XML written to file coverage.xml
-============================== 83 passed in 5.87s ==============================
+============================== 83 passed in 5.85s ==============================
 ```
 
 ## Running Test Coverage Locally
