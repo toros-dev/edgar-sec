@@ -4,7 +4,7 @@
 
 # The dev team is planning and working on a complete rebuild and overhaul of this package. Please be patient as we seek to provide an extremely powerful and useable tool for financial researchers and professionals.
 
-## edgar-sec: A feature-rich python package for interacting with the US Securities and Exchange Commission API: EDGAR
+## A feature-rich python package for interacting with the US Securities and Exchange Commission API: EDGAR
 
 <div align="center">
     <a href="https://github.com/nikhilxsunder/edgar-sec/actions/workflows/main.yml"><img src="https://github.com/nikhilxsunder/edgar-sec/actions/workflows/main.yml/badge.svg" alt="Build and test GitHub"></a>
